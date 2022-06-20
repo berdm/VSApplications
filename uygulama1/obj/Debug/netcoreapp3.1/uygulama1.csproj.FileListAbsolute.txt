@@ -1,0 +1,13 @@
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.exe
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.deps.json
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.runtimeconfig.json
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.runtimeconfig.dev.json
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.dll
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\bin\Debug\netcoreapp3.1\uygulama1.pdb
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.csprojAssemblyReference.cache
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.dll
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.pdb
+C:\Users\BUKET\source\repos\uygulama1\uygulama1\obj\Debug\netcoreapp3.1\uygulama1.genruntimeconfig.cache
