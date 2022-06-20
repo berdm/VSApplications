@@ -1,0 +1,13 @@
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\bin\Debug\netcoreapp3.1\Uygulama2_Diziler.exe
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\bin\Debug\netcoreapp3.1\Uygulama2_Diziler.deps.json
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\bin\Debug\netcoreapp3.1\Uygulama2_Diziler.runtimeconfig.json
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\bin\Debug\netcoreapp3.1\Uygulama2_Diziler.runtimeconfig.dev.json
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\bin\Debug\netcoreapp3.1\Uygulama2_Diziler.dll
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\bin\Debug\netcoreapp3.1\Uygulama2_Diziler.pdb
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.csprojAssemblyReference.cache
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.dll
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.pdb
+C:\Users\BUKET\source\repos\Uygulama2_Diziler\Uygulama2_Diziler\obj\Debug\netcoreapp3.1\Uygulama2_Diziler.genruntimeconfig.cache
